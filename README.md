@@ -4,6 +4,7 @@ Primes numbers raw dictionary
 This repository aims to publish standard de facto prime numbers dictionary useful and essential for every eventuality.
 
 ## Published dictionaries:
+- **primary.ushort.bin**: all 6542 prime numbers in **unsigned short** (2 bytes each) for a total size of **12.7 KB**
 - **primary.1m.int.bin**: first **1 million** [2 to 15485863] prime numbers in **signed/unsigned integer** (4 bytes each) for a total size of **3.81 MB**
 
 ## How use it
