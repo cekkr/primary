@@ -1,5 +1,5 @@
 # primary
-Primes numbers raw dictionary
+Prime numbers raw binary dictionaries
 
 This repository aims to publish standard de facto prime numbers dictionary useful and essential for every eventuality.
 
