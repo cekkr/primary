@@ -8,7 +8,7 @@ This repository aims to publish standard de facto prime numbers dictionary usefu
 - **primary.1m.3b.bin**: first **1 million** [2 to 15485863] prime numbers in **unsigned 3 bytes** for a total size of **2.86 MB**
 - **primary.1m.int.bin**: first **1 million** [2 to 15485863] prime numbers in **signed/unsigned integer** (4 bytes each) for a total size of **3.81 MB**
 - **primary.3b.bin**: **all** 1077871 prime numbers in **3 bytes** for a total size of **3.08 MB**
-- **primary.1m.int.bin**: first **2 million** [2 to 32452843] prime numbers in **signed/unsigned integer** (4 bytes each) for a total size of **7.62 MB**
+- **primary.2m.int.bin**: first **2 million** [2 to 32452843] prime numbers in **signed/unsigned integer** (4 bytes each) for a total size of **7.62 MB**
 
 ## How use it
 | Type  | Bytes |
